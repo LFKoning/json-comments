@@ -1,0 +1,7 @@
+{
+	// Integer
+	"integer": 1,
+	"float": 1.0, # Float
+	"text": "// text //",  // Trailing comment
+	"list": [1, 2, 3]
+}
